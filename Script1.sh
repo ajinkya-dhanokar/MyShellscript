@@ -17,3 +17,6 @@ echo "This batch-18"
 echo "Good morning"
 echo "Aj"
 echo "Rahul"
+
+
+echo "Snax"
