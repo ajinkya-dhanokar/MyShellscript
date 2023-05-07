@@ -21,3 +21,4 @@ echo "soul"
 
 echo "Snax"
 echo "Mortal"
+echo "Joker"
